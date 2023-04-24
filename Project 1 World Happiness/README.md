@@ -1,5 +1,7 @@
 Predicting World Happiness
 
+<img width="409" alt="Screen Shot 2023-04-24 at 6 43 03 PM" src="https://user-images.githubusercontent.com/61389709/234133394-2e3c7be6-05e3-4a9e-8992-b5dcd787fd86.png">
+
 For this project, I created models to predict country happiness level (very low, low, average, high, very high) based on predictor variables GDP per capita, freedom to make life choices, social support, healthy life expectancy, generosity, perceptions of corruption, terrorist attacks, country region and subregion. Data comes from the United Nations' World Happiness Rankings.
 
 The sample plots below show how a few of these variables relate to happiness level:
