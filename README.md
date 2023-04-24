@@ -3,6 +3,8 @@ Portfolio with projects from advanced machine learning class taken in Spring 202
 
 1. Predicting World Happiness
 
+<img width="409" alt="Screen Shot 2023-04-24 at 6 43 03 PM" src="https://user-images.githubusercontent.com/61389709/234132003-959c6b80-f891-4f8d-83e3-f62d71f2f127.png">
+
 https://github.com/szaidman22/Machine-Learning-Portfolio/tree/main/Project%201%20World%20Happiness
 
 For this project, I created models to predict country happiness level (very low, low, average, high, very high) based on predictor variables GDP per capita, freedom to make life choices, social support, healthy life expectancy, generosity, perceptions of corruption, terrorist attacks, country region and subregion. Data comes from the United Nations' World Happiness Rankings.
