@@ -12,4 +12,12 @@ The sample plots below show how a few of these variables relate to happiness lev
 
 I tried a support vector machine model (svm), a keras model with 4 dense layers trained over 300 epochs, and a random forest model. The svm was my most successful model, which makes sense given that the dataset was quite small.
 
-The best models in the class were gradient boosted trees and random forest models, though my svm model was actually equal to many in terms of accuracy. Going by F1 score, my svm model came in 5th out of 951 total submissions, so not bad at all.
+Competition stats:
+
+<img width="1006" alt="Screen Shot 2023-04-24 at 5 17 49 PM" src="https://user-images.githubusercontent.com/61389709/234125469-da36ad99-5689-4e9b-b45d-8e5737762010.png">
+
+The best models on average out of 951 submissions based on F1 score were decision trees, closely followed by bagging classifiers.
+
+Going by F1 score, my svm model came in 5th out of 951 total submissions, so not bad at all. I was second best in the competition based on average F1 score across all my submitted models.
+
+<img width="1037" alt="Screen Shot 2023-04-24 at 5 33 07 PM" src="https://user-images.githubusercontent.com/61389709/234125519-2efbe004-7cd7-4854-91ee-4b1dc3cfa796.png">
