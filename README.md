@@ -1,7 +1,7 @@
 # Machine-Learning-Portfolio
 Portfolio with projects from advanced machine learning class taken in Spring 2023
 
-1. Predicting World Happiness
+## 1. Predicting World Happiness
 
 <img width="409" alt="Screen Shot 2023-04-24 at 6 43 03 PM" src="https://user-images.githubusercontent.com/61389709/234132003-959c6b80-f891-4f8d-83e3-f62d71f2f127.png">
 
@@ -16,7 +16,7 @@ The best models on average out of 951 submissions based on F1 score were decisio
 
 Going by F1 score, my svm model came in 5th out of 951 total submissions, so not bad at all. I was second best in the competition based on average F1 score across all my submitted models.
 
-2. Covid X-ray Classification
+## 2. Covid X-ray Classification
 
 https://github.com/szaidman22/Machine-Learning-Portfolio/tree/main/Project%202%20Covid%20Xray%20Classification
 
@@ -48,7 +48,7 @@ I did however manage to achieve high F1 scores with very few parameters in my mo
 
 For this competition there seems to be an optimal depth for models of about 34 layers to get best F1 score.
 
-3. Movie Review Sentiment Classification
+## 3. Movie Review Sentiment Classification
 
 https://github.com/szaidman22/Machine-Learning-Portfolio/tree/main/Project%203%20Movie%20Review%20Sentiment%20Classification
 
