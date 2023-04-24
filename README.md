@@ -1,5 +1,6 @@
 # Machine-Learning-Portfolio
-Portfolio with projects from advanced machine learning class taken in Spring 2023
+Portfolio with projects from advanced machine learning class taken in Spring 2023.
+For more details please refer to this Jupyter notebook: https://github.com/szaidman22/Machine-Learning-Portfolio/blob/main/AdvancedMLProjectPortfolio.ipynb
 
 ## 1. Predicting World Happiness
 https://github.com/szaidman22/Machine-Learning-Portfolio/tree/main/Project%201%20World%20Happiness
