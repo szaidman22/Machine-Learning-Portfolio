@@ -1,5 +1,5 @@
-3. Movie Review Sentiment Classification
-4
+Movie Review Sentiment Classification
+
 Summary:
 
 In this project, I used text embeddings combined with LSTM and Conv1d-based deep learning models to predict whether a movie review is positive or negative.
