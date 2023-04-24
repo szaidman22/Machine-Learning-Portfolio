@@ -1,0 +1,7 @@
+1: Predicting World Happiness
+
+For this project, I created models to predict country happiness level (very low, low, average, high, very high) based on predictor variables GDP per capita, freedom to make life choices, social support, healthy life expectancy, generosity, perceptions of corruption, terrorist attacks, country region and subregion. Data comes from the United Nations' World Happiness Rankings.
+
+I tried a support vector machine model (svm), a keras model with 4 dense layers trained over 300 epochs, and a random forest model. The svm was my most successful model, which makes sense given that the dataset was quite small.
+
+The best models in the class were gradient boosted trees and random forest models, though my svm model was actually equal to many in terms of accuracy. Going by F1 score, my svm model came in 5th out of 951 total submissions, so not bad at all.
