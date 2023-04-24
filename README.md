@@ -2,10 +2,9 @@
 Portfolio with projects from advanced machine learning class taken in Spring 2023
 
 ## 1. Predicting World Happiness
+https://github.com/szaidman22/Machine-Learning-Portfolio/tree/main/Project%201%20World%20Happiness
 
 <img width="409" alt="Screen Shot 2023-04-24 at 6 43 03 PM" src="https://user-images.githubusercontent.com/61389709/234132003-959c6b80-f891-4f8d-83e3-f62d71f2f127.png">
-
-https://github.com/szaidman22/Machine-Learning-Portfolio/tree/main/Project%201%20World%20Happiness
 
 For this project, I created models to predict country happiness level (very low, low, average, high, very high) based on predictor variables GDP per capita, freedom to make life choices, social support, healthy life expectancy, generosity, perceptions of corruption, terrorist attacks, country region and subregion. Data comes from the United Nations' World Happiness Rankings.
 
@@ -17,10 +16,9 @@ The best models on average out of 951 submissions based on F1 score were decisio
 Going by F1 score, my svm model came in 5th out of 951 total submissions, so not bad at all. I was second best in the competition based on average F1 score across all my submitted models.
 
 ## 2. Covid X-ray Classification
+https://github.com/szaidman22/Machine-Learning-Portfolio/tree/main/Project%202%20Covid%20Xray%20Classification
 
 ![download-3](https://user-images.githubusercontent.com/61389709/234132133-eeef0c59-9df9-47e3-ac60-a00eb1e37f7a.png)
-
-https://github.com/szaidman22/Machine-Learning-Portfolio/tree/main/Project%202%20Covid%20Xray%20Classification
 
 Summary:
 
@@ -51,10 +49,9 @@ I did however manage to achieve high F1 scores with very few parameters in my mo
 For this competition there seems to be an optimal depth for models of about 34 layers to get best F1 score.
 
 ## 3. Movie Review Sentiment Classification
+https://github.com/szaidman22/Machine-Learning-Portfolio/tree/main/Project%203%20Movie%20Review%20Sentiment%20Classification
 
 <img width="382" alt="Screen Shot 2023-04-24 at 6 49 32 PM" src="https://user-images.githubusercontent.com/61389709/234132810-ee08a03c-12a9-4403-9266-14145243a075.png">
-
-https://github.com/szaidman22/Machine-Learning-Portfolio/tree/main/Project%203%20Movie%20Review%20Sentiment%20Classification
 
 Summary:
 
