@@ -18,6 +18,8 @@ Going by F1 score, my svm model came in 5th out of 951 total submissions, so not
 
 ## 2. Covid X-ray Classification
 
+![download-3](https://user-images.githubusercontent.com/61389709/234132133-eeef0c59-9df9-47e3-ac60-a00eb1e37f7a.png)
+
 https://github.com/szaidman22/Machine-Learning-Portfolio/tree/main/Project%202%20Covid%20Xray%20Classification
 
 Summary:
@@ -49,6 +51,8 @@ I did however manage to achieve high F1 scores with very few parameters in my mo
 For this competition there seems to be an optimal depth for models of about 34 layers to get best F1 score.
 
 ## 3. Movie Review Sentiment Classification
+
+<img width="382" alt="Screen Shot 2023-04-24 at 6 49 32 PM" src="https://user-images.githubusercontent.com/61389709/234132810-ee08a03c-12a9-4403-9266-14145243a075.png">
 
 https://github.com/szaidman22/Machine-Learning-Portfolio/tree/main/Project%203%20Movie%20Review%20Sentiment%20Classification
 
