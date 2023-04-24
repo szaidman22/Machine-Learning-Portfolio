@@ -1,4 +1,4 @@
-Covid X-ray Classification
+## Covid X-ray Classification
 
 ![download-3](https://user-images.githubusercontent.com/61389709/234124869-504782ac-8b91-4244-ac8e-308b3bc071c9.png)
 
