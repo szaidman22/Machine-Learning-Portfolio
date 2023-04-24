@@ -1,4 +1,6 @@
-Movie Review Sentiment Classification
+## Movie Review Sentiment Classification
+
+<img width="382" alt="Screen Shot 2023-04-24 at 6 49 32 PM" src="https://user-images.githubusercontent.com/61389709/234133498-50d3640a-044c-4c40-836e-6b44bdf9f653.png">
 
 Summary:
 
