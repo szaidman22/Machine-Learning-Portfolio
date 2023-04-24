@@ -1,4 +1,4 @@
-Predicting World Happiness
+## Predicting World Happiness
 
 <img width="409" alt="Screen Shot 2023-04-24 at 6 43 03 PM" src="https://user-images.githubusercontent.com/61389709/234133394-2e3c7be6-05e3-4a9e-8992-b5dcd787fd86.png">
 
